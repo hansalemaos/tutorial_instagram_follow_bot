@@ -4,13 +4,17 @@
 ###  pip install adbkit
 
  https://github.com/hansalemaos/adbkit
-  
-[![YT](https://i.ytimg.com/vi/BFbvycLzXHo/maxresdefault.jpg)](https://www.youtube.com/watch?v=BFbvycLzXHo)
-[https://www.youtube.com/watch?v=BFbvycLzXHo]()
 
 ### Instale Instagram lite:
 
 https://play.google.com/store/apps/details?id=com.instagram.lite&hl=pt_BR
+
+### Instale Python 3.10
+  
+[![YT](https://i.ytimg.com/vi/BFbvycLzXHo/maxresdefault.jpg)](https://www.youtube.com/watch?v=BFbvycLzXHo)
+[https://www.youtube.com/watch?v=BFbvycLzXHo]()
+
+
 
 Neste vídeo, vou compartilhar com vocês um código em Python que permite automatizar o processo de seguir pessoas no Instagram de forma automática. Usando a biblioteca adbkit, vamos explorar a interação com a interface do Instagram em um dispositivo Android.
 
